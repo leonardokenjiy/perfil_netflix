@@ -1,2 +1,2 @@
 # perfil_netflix
-pagina de perfil que aprendi na Kenzie
+pagina de seleção de usuário, que desenvolvi na Kenzie
